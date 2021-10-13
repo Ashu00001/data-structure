@@ -44,3 +44,8 @@ int main()
     printLevelOrder(root);
  
 }
+
+/*time complexity is O(n) because accessing one node is o(1) for n it is o(n)
+or theta of n
+auxillary space requirement is O(N)
+*/
